@@ -1,0 +1,5 @@
+{
+  "Link": "https://www.cbr.ru/scripts/XML_daily.asp",
+  "QueryParameterName": "date_req",
+  "DateParameterFormat": "dd/MM/yyyy"
+}
